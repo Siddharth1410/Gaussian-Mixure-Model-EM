@@ -1,2 +1,2 @@
 # Gaussian-Mixure-Model-EM
-Clustering using EM algorithm
+Clustering data using Expectation Maximization Algorithm
